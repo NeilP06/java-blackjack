@@ -19,7 +19,6 @@ public class Card {
     private static final int QUEEN = 12;
     private static final int KING = 13;
 
-    /** Constructor for the Card class: */
     public Card(int theSuit, int theRank) {
         suit = theSuit;
         rank = theRank;
